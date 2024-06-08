@@ -7,6 +7,7 @@ $(document).ready(function () {
     margin: 10,
     nav: true,
     dots: true,
+    autoplay: true,
     responsive: {
       0: {
         items: 1,
